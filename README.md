@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulsiddarth" alt="rahulsiddarth" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsiddarth&show_icons=true&locale=en&layout=compact" alt="rahulsiddarth" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsiddarth&show_icons=true&locale=en&layout=compact" alt="rahulsiddarth" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsiddarth&show_icons=true&locale=en" alt="rahulsiddarth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsiddarth&" alt="rahulsiddarth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsiddarth&" alt="rahulsiddarth" /></p>
