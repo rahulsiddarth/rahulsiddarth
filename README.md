@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Siddarth</h1>
-<h3 align="center">A passionate programmer!</h3>
+<p align="center">
+  <img src="https://github.com/rahulsiddarth/rahulsiddarth/blob/main/greetings.gif" alt="A passionate programmer!" width=300>
+</p>
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rahulsiddarth&show_icons=true" width = 400>
