@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rahul Siddarth</h1>
+<!--<h1 align="center">Hi 👋, I'm Rahul Siddarth</h1>-->
+<img src="https://github.com/rahulsiddarth/rahulsiddarth/blob/main/Hello! I'm Rahul Siddarth.png" alt="Hi 👋, I'm Rahul Siddarth">
 <p align="center">
   <img src="https://github.com/rahulsiddarth/rahulsiddarth/blob/main/greetings.gif" alt="A passionate programmer!" width=300>
 </p>
